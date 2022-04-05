@@ -1,3 +1,3 @@
-module github.com/girikuncoro/belajar-cicd-pemula
+module github.com/ubaidillahhf/go-cicd
 
 go 1.17
